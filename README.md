@@ -4,7 +4,7 @@ bare-bones fasm uefi application
 build with:
 * fasm ok.asm
 * sudo mount uefi.iso /mnt
-* sudo cp yo.efi /mnt/EFI/BOOT/BOOTX64.EFI
+* sudo cp ok.efi /mnt/EFI/BOOT/BOOTX64.EFI
 * sudo umount /mnt
 
 Launch QEMU with:
